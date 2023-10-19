@@ -6,8 +6,8 @@
 // @license        BSD
 // @homepageURL    https://adsbypasser.github.io/
 // @supportURL     https://github.com/adsbypasser/adsbypasser/issues
-// @updateURL      https://adsbypasser.github.io/releases/adsbypasser.<%= buildName %>.meta.js
-// @downloadURL    https://adsbypasser.github.io/releases/adsbypasser.<%= buildName %>.user.js
+// @updateURL      https://home.gslin.org/tmp/adsbypasser.<%= buildName %>.meta.js
+// @downloadURL    https://home.gslin.org/tmp/adsbypasser.<%= buildName %>.user.js
 // @icon           https://raw.githubusercontent.com/adsbypasser/adsbypasser/v<%= version %>/resources/img/logo.png
 // @grant          GM_deleteValue
 <% if (supportImage) { %>
